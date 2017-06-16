@@ -1,0 +1,86 @@
+h1 {
+
+	font-family: 'Mogra', cursive;
+	color: #CC0C0C;
+
+}
+
+h3 {
+
+	font-family: 'Indie Flower', cursive;
+	color: #CC0C0C;
+
+}
+
+li {
+
+	font-family: 'Damion', cursive;
+	color: #CC0C0C;
+	font-size: 40px;
+
+
+}
+
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #CC0C0C;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #CC0C0C;
+	height: 35px;
+	font-family: 'Damion', cursive;
+	font-size: 35px
+
+}
+
+.navbar-brand:hover {
+
+	color:blue;
+}
+
+body {
+	background-color:
+	black;
+
+}
+
+a {
+
+	color: #CC0C0C;
+}
+
+a:hover {
+
+	color: blue;
+	text-decoration: none;
+	
+}
+
+
+.button {
+
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #CC0C0C;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.meny {
+
+	float:left;
+}
